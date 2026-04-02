@@ -43,11 +43,13 @@ ML-powered forecasting system that predicts sales based on real inventory data, 
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaZhofs&show_icons=true&theme=gradient)
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=RaZhofs&hide_border=true&theme=radical" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaZhofs&hide_border=true&theme=radical&layout=compact" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaZhofs&layout=compact&theme=gradient)
 
 ---
 
