@@ -145,26 +145,12 @@
 
 ---
 
+
 ## GitHub Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+🔥 Streak Stats</h3></summary>
 
-----
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaZhofs&theme=tokyonight_duo" alt="RaZhofs" /></p>
 
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/RaZhofs/ForecastingmodelV2 ">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=RaZhofs&repo=ForecastingmodelV2 n&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
