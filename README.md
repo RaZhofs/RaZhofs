@@ -19,7 +19,7 @@
 - :robot: Experienced with **AI tools** like `Ollama`, `Google Gemini`, `Claude` and `ChatGPT` for ML workflows.
 - :hospital: I have worked on **cancer image classification** projects using deep learning.
 - :chart_with_upwards_trend: Built **sales prediction systems** based on real inventory data.
-- 🐍: Expert in Python ecosystem for ML: `TensorFlow`, `Keras`, `scikit-learn`, `Pandas`, `NumPy`.
+- 🐍: Python ecosystem for ML: `TensorFlow`, `Keras`, `scikit-learn`, `Pandas`, `NumPy`.
 - 🧠 Skilled in `SQL Server` and database management.
 - :nerd_face: Always `learning new things` and exploring new ML techniques.
 - :rocket: Looking for opportunities to apply ML to real-world problems.
