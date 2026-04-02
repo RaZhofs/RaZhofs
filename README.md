@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :school: I am a `8th Semester` student at [Universidad] studying **Data Science Engineering**.
+- :school: I am a `8th Semester` student at Politecnico Gran Colombiano college studying **Data Science Engineering**.
 - :brain: Passionate about **Machine Learning**, neural networks, and AI solutions.
 - :robot: Experienced with **AI tools** like `Ollama`, `Google Gemini`, `Claude` and `ChatGPT` for ML workflows.
 - :hospital: I have worked on **cancer image classification** projects using deep learning.
