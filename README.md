@@ -34,7 +34,7 @@
 
 
 
-## 🛠️ My Skills
+##  My Skills
 
 ### Programming & ML
 
